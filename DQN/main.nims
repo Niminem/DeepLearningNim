@@ -1,0 +1,2 @@
+--define:release
+--define:danger
